@@ -12,7 +12,7 @@
 	<h1>I am a Student who is intrestes in game-dev and IT</h1>
 	<p class="lead">
 		I'm Aleksander Piotrowski, A computer Science Student Studying at SDU Vejle.
-		I Participate in Game Jams and other hackathons.
+		I Participate in Game Jams, hackathons and CTFs.
 	</p>
 	<p class="cta">
 		<a class="button" href="/projects">See my projects</a>
