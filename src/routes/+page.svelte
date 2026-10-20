@@ -9,7 +9,7 @@
 </svelte:head>
 
 <section class="hero">
-	<h1>I am a Student who is intrestes in game-dev and IT</h1>
+	<h1>I am a Student who is intrested in game-dev and IT</h1>
 	<p class="lead">
 		I'm Aleksander Piotrowski, A computer Science Student Studying at SDU Vejle.
 		I Participate in Game Jams, hackathons and CTFs.
